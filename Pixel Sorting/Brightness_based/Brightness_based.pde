@@ -1,5 +1,5 @@
 PImage img;
-String img_n = "cat.png";
+String img_n = "trees.jpg";
 int tiles = 4;
 float sensibility = 40;
 void setup(){
